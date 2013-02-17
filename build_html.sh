@@ -1,0 +1,1 @@
+emcc -s EXPORTED_FUNCTIONS="['_int_sqrt']" main.cpp -o main.html
